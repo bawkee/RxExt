@@ -5,17 +5,17 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <Title>RxExt</Title>
     <Authors>Bojan Sala</Authors>
     <PackageLicenseUrl>https://raw.githubusercontent.com/bawkee/rxext/main/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/bawkee/rxext</PackageProjectUrl>
     <RepositoryUrl>https://github.com/bawkee/rxext</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Description>Various helpful utility extensions for System.Reactive, making your Rx life easier.</Description>
-    <Copyright>Public Domain</Copyright>
     <PackageTags>ReactiveExtensions;Rx;System.Reactive;Observable;Utility;Extensions;ReactiveProgramming;LINQ;Asynchronous;FunctionalProgramming;ReactiveUI;Rx.NET;EventDriven;Threading;Concurrency</PackageTags>
+    <Copyright>Public Domain</Copyright>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
-    <Title>RxExt</Title>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
