@@ -14,4 +14,3 @@ Some of the extension methods include:
 - OnSubscribed lets you do things when subscribed
 - EnsureAction makes sure an action is done no matter what
 - WhereNotNull
--ab
