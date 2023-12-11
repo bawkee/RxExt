@@ -17,4 +17,3 @@ Some of the extension methods include:
 - EnsureAction makes sure an action is done no matter what
 - WhereNotNull
 - As which applies c# type testing as operator
-- 
