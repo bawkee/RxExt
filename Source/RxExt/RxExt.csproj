@@ -17,6 +17,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.1</Version>
     <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>- Fixed .As operator to not filter out null values automatically</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
