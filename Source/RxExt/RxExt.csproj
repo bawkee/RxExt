@@ -15,9 +15,11 @@
     <PackageTags>ReactiveExtensions;Rx;System.Reactive;Observable;Utility;Extensions;ReactiveProgramming;LINQ;Asynchronous;FunctionalProgramming;ReactiveUI;Rx.NET;EventDriven;Threading;Concurrency</PackageTags>
     <Copyright>Public Domain</Copyright>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>- Fixed .As operator to not filter out null values automatically</PackageReleaseNotes>
+    <PackageReleaseNotes>- Fixed .As operator to not filter out null values automatically
+- Xmldoc included</PackageReleaseNotes>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
